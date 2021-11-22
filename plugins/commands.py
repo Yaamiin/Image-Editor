@@ -70,8 +70,8 @@ async def about(client, message):
                     ],
                     [
                         InlineKeyboardButton(
-                            "SOURCE CODE",
-                            url="https://github.com/TroJanzHEX/Image-Editor",
+                            "Channel",
+                            url="https://t.me/Somalibots",
                         )
                     ],
                 ]
